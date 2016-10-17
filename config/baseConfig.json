@@ -3,6 +3,6 @@
     "baseUrl": "http://localhost:3000"
   },
   "production": {
-    "baseUrl": ""
+    "baseUrl": "http://spartify-app.herokuapp.com"
   }
 }
